@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">steuerzeitenrechner</string>
+    <string name="start_gyroscope">Start Gyroscope</string>
+    <string name="stop_gyroscope">Stop Gyroscope</string>
+    <string name="gyroscope_values">Gyroscope Values:\nX: %.2f\nY: %.2f\nZ: %.2f</string>
+    <string name="azimuth_value">Azimuth, pitch, roll: %.2f, %.2f, %.2f degrees</string>
+</resources>
